@@ -1,0 +1,21 @@
+body{
+  background-color: aliceblue;
+}
+
+.hero-img {
+  background-image: url(https://images.unsplash.com/photo-1497091071254-cc9b2ba7c48a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2074&q=80);
+  background-size: cover;
+  background-position: center;
+  padding-top: 10em !important;
+  padding-bottom: 10em !important;
+}
+.btn{
+  margin-bottom: .3em;
+}
+.img{
+  background-image: url(https://www.absolute-design.co.uk/uploads/cache/News_gm_demo_Large-900x0.jpg);
+  background-size: cover;
+  background-position: center;
+  padding-top: 8em;
+  padding-bottom: 8em;
+}
